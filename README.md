@@ -20,19 +20,27 @@ This project is built using the following technologies:
 * Tailwind CSS - Utility-first CSS framework for rapid styling.
 * Yarn - Dependency management and package installation.
 
+
 ## Preview 📺
 
 ### Login Screen
-![image](https://github.com/user-attachments/assets/70afdb24-aca2-44ff-a4c1-480e9c5503df)
+![image](https://github.com/user-attachments/assets/a5e83372-1cbd-4425-b500-af4c6fd7379d)
+
 
 ### Home Screen 
-![image](https://github.com/user-attachments/assets/98d4baef-513a-4166-ade4-c772c23e561f)
+![image](https://github.com/user-attachments/assets/25f3aa91-6d9d-4535-b128-732db952fbd7)
 
-![image](https://github.com/user-attachments/assets/58fe260a-9895-4953-a7e1-959ce8da7259)
+![image](https://github.com/user-attachments/assets/aba6fc27-84c2-4240-bb45-37afc84719c0)
+
+![image](https://github.com/user-attachments/assets/16364acb-2324-42c9-ad0c-632ba025fffa)
+
+![image](https://github.com/user-attachments/assets/60310610-8cde-4643-b7e0-1117dcf805e8)
 
 
 ### Our Service
-![image](https://github.com/user-attachments/assets/76958031-a16e-4c9c-93b0-abc3a4e26d65)
+![image](https://github.com/user-attachments/assets/587de9f0-13f5-42e4-97b9-51396a6c7848)
+
+
 
 ### Chat Bot
 ![image](https://github.com/user-attachments/assets/06b3ee80-0831-4696-b4be-8c84b27e6538)
